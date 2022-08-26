@@ -1,60 +1,60 @@
 const someMovies = [
     {
-        "Title": "The Hangover",
-        "Year": "2009",
-        "imdbID": "tt1119646",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-    },
-    {
-        "Title": "The Conjuring",
-        "Year": "2013",
-        "imdbID": "tt1457767",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg"
-    },
-    {
-        "Title": "Batman v Superman: Dawn of Justice",
-        "Year": "2016",
-        "imdbID": "tt2975590",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-    },
-    {
-        "Title": "Avengers: Endgame",
-        "Year": "2019",
-        "imdbID": "tt4154796",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
-    },
-    {
-        "Title": "365 Days: This Day",
-        "Year": "2022",
-        "imdbID": "tt12996154",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjY2NzUxNjgtNjJhNy00NTA4LTlmNzItYzQ4MDdjNWYxZjkwXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_SX300.jpg"
-    },
-    {
-        "Title": "Parasite",
-        "Year": "2019",
-        "imdbID": "tt6751668",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
-    },
-    {
-        "Title": "Squid Game",
-        "Year": "2021–",
-        "imdbID": "tt10919420",
-        "Type": "series",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
-    },
-    {
-        "Title": "Saw",
-        "Year": "2004",
-        "imdbID": "tt0387564",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MzI1MWYtYmM2ZC00OWY3LTk0ZGMtNmRkNzU1NzEzMWE5XkEyXkFqcGdeQXVyODUwOTkwODk@._V1_SX300.jpg"
-    }
+    "Title": "No One Gets Out Alive",
+    "Year": "2021",
+    "imdbID": "tt13056008",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGQzODVkZDAtOWFhNS00MWJhLThjNDctNjFlZDExYjg5NWM1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+},
+{
+    "Title": "Persuasion",
+    "Year": "2022",
+    "imdbID": "tt13456318",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDg3MzdiYjAtZWQ0MC00MDY4LWE5ZWEtNjliNTE3ZDZjNTU3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg"
+},
+{
+    "Title": "The Next 365 Days",
+    "Year": "2022",
+    "imdbID": "tt21106646",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzc3Y2EtMGI0ZS00ZWYwLWFjODQtNzYwY2I5OTczODcwXkEyXkFqcGdeQXVyMTU0OTAzOTQ1._V1_SX300.jpg"
+},
+{
+    "Title": "Purple Hearts",
+    "Year": "2022",
+    "imdbID": "tt4614584",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
+},
+{
+    "Title": "Laal Singh Chaddha",
+    "Year": "2022",
+    "imdbID": "tt10028196",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ4OTEyOTctMmFkOC00N2M4LWIyMDEtN2Y1MzQ0NzMzNDJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+},
+{
+    "Title": "Windfall",
+    "Year": "2022",
+    "imdbID": "tt15033192",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjlhNzM4NjItMWRkNi00MWRmLWIzZmEtMmVlNGMwNzU3MmUzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg"
+},
+{
+    "Title": "The Gray Man",
+    "Year": "2022",
+    "imdbID": "tt1649418",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+},
+{
+    "Title": "Joyland",
+    "Year": "2022",
+    "imdbID": "tt19719976",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDlkZTAyMzMtZWY5MC00ZjdhLTg5NmItYmNlY2I5OTcxNGM0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_SX300.jpg"
+}
 ];
 
 export default someMovies;
